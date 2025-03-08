@@ -40,9 +40,9 @@ const nasywa = {
 <div align="center">
   <table>
     <tr>
-     <td align="center" width="33%">
+<td align="center" width="33%">
   <h3>🎨 Design</h3>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/palette.svg" width="100" height="100">
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png" width="100" height="100">
   <p>UI/UX • Wireframing • Prototyping • Color Theory • Typography</p>
 </td>
       <td align="center" width="33%">
