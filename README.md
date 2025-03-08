@@ -178,7 +178,7 @@ const nasywa = {
 </div>
 
 <div align="center">
-  <h3>💖 Thank you for visiting my digital garden! 💖</h3>
+  <h3>💖 Thanks for visiting! Have a lovely day! 💖</h3>
   <p>
     <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
   </p>
