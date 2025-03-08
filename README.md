@@ -15,10 +15,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/nasywaqailaazvi/nasywaqailaazvi/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasywaqailaazvi&background=000000&stroke=FF61C0&ring=FF61C0&fire=FF61C0&currStreakNum=FFFFFF&sideNums=FF61C0&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&hide_border=true" width="495" />
 </div>
 
