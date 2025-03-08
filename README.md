@@ -39,32 +39,12 @@ const nasywa = {
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasywaqailaazvi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasywaqailaazvi&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/nasywaqailaazvi/awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=awesome-project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/nasywaqailaazvi/portfolio-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=portfolio-website&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 🎯 Goals for 2025
-- ✅ Master **Three.js & WebGL**
-- ✅ Contribute to **5+ open-source projects**
-- ✅ Build a **Progressive Web App (PWA)**
-- ✅ Launch my **own UI component library**
-- ✅ Speak at a **tech conference**
+## 🎵 My Inspirations
+- 🎨 **Steve Schoger** – Master of UI/UX design
+- 🚀 **Dan Abramov** – React genius
+- 🔥 **Bruno Simon** – Creative coding & 3D WebGL pioneer
+- 🎭 **Tim Holman** – Fun and quirky web experiments
+- 🖌️ **Pablo Stanley** – The storytelling designer
 
 ---
 
