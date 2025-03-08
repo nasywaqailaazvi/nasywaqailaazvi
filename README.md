@@ -36,62 +36,59 @@ const nasywa = {
 
 <p align="center">⚡ <b>"Design is not just what it looks like. Design is how it works."</b> ⚡</p>
 
-## 🌈 My Creative Journey
+## 💫 Skills & Expertise
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/172940773-d9d5d7ad-c44a-431b-8ae2-122fd3249a09.gif" width="100%" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Design</h3>
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/female-web-designer-5667324-4715159.png" width="100" height="100">
+        <p>UI/UX • Wireframing • Prototyping • Color Theory • Typography</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>💻 Development</h3>
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/female-web-developer-5667323-4715158.png" width="100" height="100">
+        <p>Frontend • Responsive Design • Performance Optimization • Accessibility</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🧠 Problem Solving</h3>
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/creative-idea-5187257-4333973.png" width="100" height="100">
+        <p>Analytical Thinking • Creative Solutions • User-Centered Approach</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-        <p>
-          <b>Beginning my journey with web fundamentals</b>
-        </p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
-        <p>
-          <b>Advancing to modern frameworks</b>
-        </p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-        <p>
-          <b>Exploring new creative frontiers</b>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🌟 Featured Projects
+## 📚 Learning & Growth
 
 <div align="center">
-  <a href="https://github.com/nasywaqailaazvi/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=portfolio-website&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/nasywaqailaazvi/ui-components">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=ui-components&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📱 Current Focus</h3>
+        <p>Exploring modern UI patterns and micro-interactions to create delightful user experiences</p>
+      </td>
+      <td align="center">
+        <h3>🌱 Growing Into</h3>
+        <p>Advanced JavaScript concepts, animations, and performance optimization techniques</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>📘 Learning Resources</h3>
+        <p>Books, online courses, open-source contributions, and community projects</p>
+      </td>
+      <td align="center">
+        <h3>🚀 Future Goals</h3>
+        <p>Mastering 3D web experiences and building accessibility-first applications</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🔥 My Tech Stack
