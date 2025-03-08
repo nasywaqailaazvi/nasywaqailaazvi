@@ -37,23 +37,22 @@ const nasywa = {
 <p align="center">⚡ <b>"Design is not just what it looks like. Design is how it works."</b> ⚡</p>
 
 ## 💫 Skills & Expertise
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <h3>🎨 Design</h3>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/female-web-designer-5667324-4715159.png" width="100" height="100">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="100" height="100">
         <p>UI/UX • Wireframing • Prototyping • Color Theory • Typography</p>
       </td>
       <td align="center" width="33%">
         <h3>💻 Development</h3>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/female-web-developer-5667323-4715158.png" width="100" height="100">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" height="100">
         <p>Frontend • Responsive Design • Performance Optimization • Accessibility</p>
       </td>
       <td align="center" width="33%">
         <h3>🧠 Problem Solving</h3>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/creative-idea-5187257-4333973.png" width="100" height="100">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="100" height="100">
         <p>Analytical Thinking • Creative Solutions • User-Centered Approach</p>
       </td>
     </tr>
