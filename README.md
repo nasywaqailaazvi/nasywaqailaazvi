@@ -117,25 +117,25 @@ const nasywa = {
         <b>Steve Schoger</b><br/>
         <sub>Master of UI/UX</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://api.dicebear.com/7.x/personas/svg?seed=AbramovDan&backgroundColor=FF61C0" width="100px;" alt="Dan Abramov"/>
-        <br /><b>Dan Abramov</b><br/>
-        <sub>React Genius</sub>
+      <td align="center">
+        <img src="https://api.dicebear.com/7.x/personas/svg?seed=AbramovDan" width="100px;" alt=""/><br />
+        <b>Dan Abramov</b><br/>
+        <sub>React genius</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://api.dicebear.com/7.x/personas/svg?seed=SimonBruno&backgroundColor=FF61C0" width="100px;" alt="Bruno Simon"/>
-        <br /><b>Bruno Simon</b><br/>
-        <sub>3D Wizard</sub>
+      <td align="center">
+        <img src="https://api.dicebear.com/7.x/personas/svg?seed=SimonBruno" width="100px;" alt=""/><br />
+        <b>Bruno Simon</b><br/>
+        <sub>3D WebGL pioneer</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://api.dicebear.com/7.x/personas/svg?seed=HolmanTim&backgroundColor=FF61C0" width="100px;" alt="Tim Holman"/>
-        <br /><b>Tim Holman</b><br/>
-        <sub>Creative Coder</sub>
+      <td align="center">
+        <img src="https://api.dicebear.com/7.x/personas/svg?seed=HolmanTim" width="100px;" alt=""/><br />
+        <b>Tim Holman</b><br/>
+        <sub>Web experiments</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://api.dicebear.com/7.x/personas/svg?seed=StanleyPablo&backgroundColor=FF61C0" width="100px;" alt="Pablo Stanley"/>
-        <br /><b>Pablo Stanley</b><br/>
-        <sub>Design Storyteller</sub>
+      <td align="center">
+        <img src="https://api.dicebear.com/7.x/personas/svg?seed=StanleyPablo" width="100px;" alt=""/><br />
+        <b>Pablo Stanley</b><br/>
+        <sub>Storytelling designer</sub>
       </td>
     </tr>
   </table>
