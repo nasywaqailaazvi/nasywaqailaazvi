@@ -77,8 +77,8 @@ const nasywa = {
 ## 💻 Tech Playground
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,figma,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,vscode,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,figma,git" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,vscode,github" />
 </div>
 
 <div align="center">
