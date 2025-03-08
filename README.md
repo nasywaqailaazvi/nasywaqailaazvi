@@ -14,8 +14,8 @@
 ```javascript
 const nasywa = {
   pronouns: "she/her",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Next.js"],
-  tools: ["VSCode", "Figma", "Adobe XD", "Git"],
+  code: ["JavaScript", "HTML", "CSS", "Phyton", "C++"],
+  tools: ["VSCode", "Figma", "Git"],
   architecture: ["microservices", "design patterns", "clean code"],
   interests: ["web design", "interactive UIs", "accessibility", "open source"],
   currentFocus: "Creating beautiful and responsive web experiences"
@@ -53,7 +53,7 @@ const nasywa = {
   <a href="https://www.instagram.com/nsyw_qlzv/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:nasywaqailaazvi@gmail.com">
+  <a href="nasywaqailaazvi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nasywa-qaila-azvi/" target="_blank">
