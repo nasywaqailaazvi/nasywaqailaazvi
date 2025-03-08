@@ -1,57 +1,84 @@
-![Welcome Banner](https://source.unsplash.com/1600x500/?technology,coding,galaxy)
+# 👋 Hi there, I'm Nasywa Qaila Azvi!
 
-# 🚀 Welcome to My Universe! I'm **Nasywa Qaila Azvi** 🌟
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Coder;Problem+Solver" />
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/NasywaQailaAzvi?style=social)](https://github.com/NasywaQailaAzvi)
-[![Profile Views](https://komarev.com/ghpvc/?username=NasywaQailaAzvi&color=brightgreen)](https://github.com/NasywaQailaAzvi)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasywaqailaazvi&theme=tokyonight&hide_border=true" />
+</div>
+
+## ✨ About Me
+```javascript
+const nasywa = {
+  pronouns: "she/her",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Next.js"],
+  tools: ["VSCode", "Figma", "Adobe XD", "Git"],
+  architecture: ["microservices", "design patterns", "clean code"],
+  interests: ["web design", "interactive UIs", "accessibility", "open source"],
+  currentFocus: "Creating beautiful and responsive web experiences"
+};
+```
+
+## 🚀 What I'm working on
+- 🌱 Building my portfolio with Next.js and Three.js
+- 💡 Contributing to open-source UI component libraries
+- 📚 Learning advanced animation techniques
+- 🎨 Exploring creative coding projects
+
+## 🔥 My Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasywaqailaazvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasywaqailaazvi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/nasywaqailaazvi/awesome-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=awesome-project&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nasywaqailaazvi/portfolio-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=portfolio-website&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 🎯 Goals for 2025
+- [ ] Master Three.js and WebGL
+- [ ] Contribute to 5+ open source projects
+- [ ] Build a progressive web app
+- [ ] Launch a personal UI component library
+- [ ] Speak at a tech conference
+
+## 📫 Let's Connect!
+<div align="center">
+  <a href="https://www.instagram.com/nsyw_qlzv/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nasywaqailaazvi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nasywa-qaila-azvi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasywaqailaazvi&style=flat-square&color=6C63FF" alt="Profile views" />
+</div>
 
 ---
 
-## 💡 Who Am I?  
-✨ **Tech Explorer** | 🎨 **Creative Coder** | 📊 **Business Innovator**  
-I'm passionate about blending **technology, creativity, and business** to craft innovative digital solutions. Whether it's **web development, AI, or data science**, I'm always ready to dive in!
-
-🌱 Currently exploring **Machine Learning & AI for Business**  
-📚 Always learning new tech to stay ahead of the curve!  
-
----
-
-## 🔥 My Tech Arsenal  
-🚀 **Languages & Frameworks:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-💾 **Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jena Fuseki](https://img.shields.io/badge/-Jena%20Fuseki-0078D7?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-🌟 **[Linus Tracker](https://github.com/NasywaQailaAzvi/Linus-Tracker)** - Smart public transportation monitoring system.  
-🌟 **[Bless Cosmetics Store](https://github.com/NasywaQailaAzvi/Bless-Cosmetics)** - A fully functional e-commerce platform.  
-🌟 **[Smart Waste Management](https://github.com/NasywaQailaAzvi/Smart-Waste)** - AI-powered waste management system.
-
----
-
-## 📊 GitHub Insights  
-![Nasywa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NasywaQailaAzvi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasywaQailaAzvi&layout=compact&theme=tokyonight)
-
-🔗 **GitHub Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NasywaQailaAzvi&theme=tokyonight)
-
----
-
-## 🌍 Connect with Me  
-💼 **LinkedIn**: [linkedin.com/in/nasywaqailaazvi](https://linkedin.com/in/nasywaqailaazvi)  
-📧 **Email**: [nasywaqailaazvi@gmail.com](mailto:nasywaqailaazvi@gmail.com)  
-
----
-
-✨ **Fun Fact:** *"Coding is like magic, and I love creating spells!"* 🔮
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
