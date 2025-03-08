@@ -61,7 +61,7 @@ const nasywa = {
         <p>Sketching concepts, wireframing, and planning architecture</p>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="80" alt="Design" />
+        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png" width="80" alt="Design" />
         <h3>Design</h3>
         <p>Crafting beautiful interfaces with attention to detail</p>
       </td>
