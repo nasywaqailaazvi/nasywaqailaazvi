@@ -112,10 +112,10 @@ const nasywa = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
-        <img src="https://api.dicebear.com/7.x/personas/svg?seed=SchogerSteve&backgroundColor=FF61C0" width="100px;" alt="Steve Schoger"/>
-        <br /><b>Steve Schoger</b><br/>
-        <sub>UI/UX Master</sub>
+      <td align="center">
+        <img src="https://api.dicebear.com/7.x/personas/svg?seed=SchogerSteve" width="100px;" alt=""/><br />
+        <b>Steve Schoger</b><br/>
+        <sub>Master of UI/UX</sub>
       </td>
       <td align="center" width="20%">
         <img src="https://api.dicebear.com/7.x/personas/svg?seed=AbramovDan&backgroundColor=FF61C0" width="100px;" alt="Dan Abramov"/>
