@@ -36,46 +36,63 @@ const nasywa = {
 
 <p align="center">⚡ <b>"Design is not just what it looks like. Design is how it works."</b> ⚡</p>
 
-## 🚀 What I'm Working On
+## 🌈 My Creative Journey
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/172940773-d9d5d7ad-c44a-431b-8ae2-122fd3249a09.gif" width="100%" />
+</div>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio Project</h3>
+    <td>
       <div align="center">
-        <img src="https://cdn.dribbble.com/userupload/4689252/file/original-01f2c48eddd6020bf7e940b949b1a6e2.png?resize=752x" width="250" height="150" alt="Portfolio preview"/>
-        <br>
-        <p>💻 Building a stunning <b>Next.js + Three.js</b> portfolio website</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        <p>
+          <b>Beginning my journey with web fundamentals</b>
+        </p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">UI Component Library</h3>
+    <td>
       <div align="center">
-        <img src="https://cdn.dribbble.com/userupload/7660595/file/original-8d6b2285bc7ad4159d2f2a408aeb40a3.png?resize=752x" width="250" height="150" alt="UI components"/>
-        <br>
-        <p>🎨 Contributing to open-source <b>UI component libraries</b></p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+        <p>
+          <b>Advancing to modern frameworks</b>
+        </p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">WebGL Animations</h3>
+    <td>
       <div align="center">
-        <img src="https://cdn.dribbble.com/users/1366606/screenshots/18614933/media/1d426c52a4089adad8e0d93f57be6304.png?resize=752x" width="250" height="150" alt="WebGL preview"/>
-        <br>
-        <p>✨ Mastering <b>advanced animations & WebGL</b></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Generative Art</h3>
-      <div align="center">
-        <img src="https://cdn.dribbble.com/users/702789/screenshots/15130237/media/4ea6d5254d06b4c6cf6b31868c9761d3.png?resize=752x" width="250" height="150" alt="Generative art"/>
-        <br>
-        <p>🎭 Exploring <b>creative coding & generative art</b></p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        <p>
+          <b>Exploring new creative frontiers</b>
+        </p>
       </div>
     </td>
   </tr>
 </table>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nasywaqailaazvi/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=portfolio-website&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/nasywaqailaazvi/ui-components">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasywaqailaazvi&repo=ui-components&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 ## 🔥 My Tech Stack
 
